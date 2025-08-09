@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Luan-Carvalho-Pedrosa
-- 👀 I’m interested in ...  Orientação de Objetos
-- 🌱 I’m currently learning ... Banco de Dados
-- 💞️ I’m looking to collaborate on ...  Programação de jogos
+- 👀 I’m interested in ...  Full Stack Development
+- 🌱 I’m currently learning ... PL/SQL
+- 💞️ I’m looking to collaborate on ...  DataBase Systems
 - 📫 How to reach me ... Linkedin
 
 <!---
